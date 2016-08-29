@@ -14,7 +14,7 @@ body,div,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input{ margi
 	color:yellow;
 }
 .head-right{
-	margin-left:80%;
+	margin-left:850px;
 	margin-top:-25px;
 	line-height:30px;
 	color:whire;
@@ -114,11 +114,4 @@ span{
 }
 a:hover{
 	color:#8bd1f2;
-}
-.footer{
-	width:100%;
-	margin-top:40px;
-	text-align:center;
-	line-height:30px;
-	float:left;
 }

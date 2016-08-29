@@ -58,7 +58,7 @@
 .leftsidenav ul li ul{
     margin-top:0;
 	background:white;
-	line-height:30px;
+	line-height:33px;
 }
 .leftsidenav ul li ul li a{
 	color:black;
@@ -70,7 +70,7 @@
 }
 .leftsidenav ul li ul li img{
 	position:relative;
-	top:-10px;
+	top:-12px;
 }
 .dotted{
 	width:120px;
@@ -258,6 +258,7 @@
 	height:17px;
 	background:url(../images/www.png) no-repeat -245px -144px;
 	margin-top:10px;
+	margin-left:5px;
 }
 .rest{
 	margin-left:20px;
@@ -275,6 +276,7 @@
 	font-size:17px;
 	text-decoration:line-through;
 	margin-top:10px;
+	margin-left:5px;
 }
 .link{
 	margin-left:60%;
@@ -501,12 +503,7 @@ margin-top:2px;
 	height:296px;
 	background:url(../images/5F.jpg);
 }
-.footer{
-	width:100%;
-	float:left;
-	text-align:center;
-	margin-top:50px;
-}
+
 hr{
 	margin-top:-30px;
 }

@@ -213,15 +213,3 @@ h2{
 .no13{
 	font:bold 14px "微软雅黑";
 }
-.footer{
-	width:93%;
-	border:2px solid black;
-	border-width:2px 0px 0px 0px;
-	margin-top:50px;
-    float:left;
-	margin-left:5%;
-}
-.footer p{
-	text-align:center;
-	margin-top:20px;		
-}

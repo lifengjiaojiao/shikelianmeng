@@ -28,7 +28,6 @@ h2{
 }
 .container{
 	width:100%;
-	height:100%;
 	margin:0 auto;
 }
 .f9{
@@ -49,7 +48,7 @@ h2{
 	background:#f6f6f6;
 }
 .header-right{
-	margin-left:60%;
+	margin-left:650px;
 	margin-top:-25px;
 }
 .header-icon-app{
@@ -57,7 +56,7 @@ h2{
 	height:16px;
 	background:url(../images/icn-app.png) no-repeat;
 	position:absolute;
-	left:60%;
+	left:640px;
 	top:10px;
 
 }
@@ -106,3 +105,10 @@ h2{
 	clear: both;
 	height: 0;
 }
+.footer{
+	width:1000px;
+	float:left;
+	margin-top:50px;
+	text-align:center;
+}
+
