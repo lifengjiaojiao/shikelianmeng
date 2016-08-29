@@ -1,0 +1,124 @@
+body,div,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input{ margin:0; padding:0;border:0;}
+.head{
+	width:100%;
+	background:black;
+	float:left;
+}
+.head-left{
+	margin-left:5%;
+	margin-top:5px;
+	line-height:30px;
+	color:white;
+}
+.head-left a{
+	color:yellow;
+}
+.head-right{
+	margin-left:80%;
+	margin-top:-25px;
+	line-height:30px;
+	color:whire;
+}
+.head-right a{
+	color:white;
+}
+.head-right a:hover{
+	color:blue;
+}
+.nav{
+	width:100%;
+}
+.nav-logo{
+	margin:20px 0px 20px 5%;
+}
+.nav ul {
+	margin:-40px 5% 0 63%;
+}
+.nav ul li{
+	margin-left:10px;
+}
+.nav ul li a{
+	font-size:15px;
+}
+.nav ul li a:hover{
+	color:blue;
+	text-decoration:underline;
+}
+hr{
+	color:#dcdcdc;
+	margin-top:20px;
+}
+.icon{
+	margin:15px 0px 15px 5%;
+	max-width:90%;
+}
+.fund{
+	margin-left:5%;
+	width:90%;    
+}
+.fund-border{
+	width:322px;
+	border:1px solid black;
+	border-width:0px 1px 0px 0px;
+    background:#d5cece;
+    float:left;
+}
+.f14{
+	margin:20px 0px 20px 37%;
+	font-size:14px;
+}
+.no40{
+	line-height:100px;
+	text-align:center;
+	font:bold 40px "Î¢ÈíÑÅºÚ";
+	color:green;
+}
+.fund-border a{
+	margin-left:70%;
+	color:#7a4fc0;
+}
+.no14{
+	margin-left:10px;
+	font-size:14px;
+	line-height:30px;
+}
+.f-14{
+	font-size:14px;
+	line-height:34px;
+	margin-left:10px;
+}
+.solid{
+	border:1px solid #dcdcdc;
+	border-width:1px 0px 1px 0px;
+	width:90%;
+	margin-top:40px;
+	margin-left:5%;
+	float:left;
+}
+.text{
+	margin-left:10px;
+	line-height:40px;
+}
+span{
+	color:#8bd1f2;
+}
+.sidebar{
+	margin-top:50px;
+	margin-bottom:20px;
+}
+.sidebar li{
+	margin-left:30px;
+}
+.sidebar li a{
+	font-size:14px;
+}
+a:hover{
+	color:#8bd1f2;
+}
+.footer{
+	width:100%;
+	margin-top:40px;
+	text-align:center;
+	line-height:30px;
+	float:left;
+}

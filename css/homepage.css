@@ -1,0 +1,55 @@
+body,div,ol,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,legend,input{ margin:0; padding:0;}
+.header{
+	width:100%;
+}
+.logo{
+	width:171px;
+	height:37px;
+	background:url(../images/login_home_img.png) no-repeat;
+	margin-top:10px;
+	margin-left:5%;
+}
+.logo p{
+	position:absolute;
+	left:800px;
+	word-spacing:20px;
+}
+.content{
+	position:relative;
+	width:100%;
+}
+.icon{
+	margin-left:20px;
+	margin-top:100px;
+}
+form{
+	position:absolute;
+	left:700px;
+	top:200px;
+}
+.form-search{
+	width:300px;
+	height:40px;
+	margin-bottom:10px;
+}
+.password{
+	margin-left:185px;
+}
+.debark{
+	width:300px;
+	height:40px;
+	background:red;
+}
+.font9{
+	margin-top:-100px;
+	margin-left:-100px;
+	white-space:nowrap;
+}
+.footer{
+	width:100%;
+	text-align:center;
+}
+.footer p{
+	margin-top:40px;
+	margin-left:-600px;
+}
