@@ -28,6 +28,7 @@ h2{
 }
 .container{
 	width:100%;
+	overflow:hidden;
 	margin:0 auto;
 }
 .f9{

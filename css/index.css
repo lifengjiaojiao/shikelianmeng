@@ -183,12 +183,12 @@
 	background:#fce3e7;	
 }
  h3{
-	margin-left:90px;
-	margin-top:-50px;
-	margin-bottom:50px;
+	position:relative;
+	top:-50px;
+	left:90px;
 }
 .activity{
-	width:225px;
+	width:210px;
 	margin-left:1%;
 	margin-bottom:40px;
 	background:#fae9cd;	
